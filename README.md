@@ -1,6 +1,5 @@
 # rotating-card
 
-
 ## Deploy
 
 :rocket: You can deploy your own version of the template to Genezio with one click:
